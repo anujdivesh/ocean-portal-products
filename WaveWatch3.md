@@ -5,5 +5,5 @@ Wave and wind forecast information is available with a lead time of seven days. 
 ## Introduction
 The ocean surface is often observed as having an uneven and chaotic nature. What we are observing is the combination of many waves of different size and speed travelling in different directions. The waves may have been produced by local winds, referred to as wind-sea, or could have been created many kilometres away from distant storms, referred to as swell.
 
-![[ww3.png]]
+![Significant Wave Height](ww3.png)
 The wave parameters available in the Ocean Portal as part of the wave forecast, describe the attributes of the most significant wind-sea and swell waves, as well as a description of the wave height when wind-sea and swell are combined. The table below shows what the resulting significant wave height can be when wind-sea and swell are combined.
